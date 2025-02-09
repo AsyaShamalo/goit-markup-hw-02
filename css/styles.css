@@ -52,11 +52,6 @@ button {
 .item-nav-link-stud:hover, .item-nav-link-stud:focus {
        color: #404bbf;
 }
-.item-nav-link-stud:active {
-        
-        color: #404bbf;
-        text-decoration: underline;
-}
 
 .nav-header-list {
 font-weight: 500;
